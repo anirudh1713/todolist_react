@@ -1,0 +1,33 @@
+.Header{
+    background-color: #bdbdbd;
+    box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.8);
+    width: 50%;
+    margin: 10px auto;
+}
+
+h1{
+    margin: 20px;
+    font-size: 50px;
+    font-weight: 700;
+    color: #840032;
+}
+
+.Elements{
+    margin: 20px;
+}
+
+.Input {
+    padding: 10px;
+    border: 0;
+    background-color: #e0fbfc;
+    margin: 20px;
+    width: 70%;
+}
+
+.Button {
+    padding: 10px;
+    color: whitesmoke;
+    border: 0;
+    background-color: #45CE30;
+    width: 20%;
+}

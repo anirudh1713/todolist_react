@@ -1,0 +1,25 @@
+.Item{
+    background-color: #bdbdbd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.8);
+    width: 50%;
+    margin: 10px auto;
+}
+
+.itemName{
+    color: #840032;
+    font-size: 17px;
+    font-weight: 400;
+    margin: 10px 50px 10px 50px;
+}
+
+.Button {
+    padding: 10px;
+    color: whitesmoke;
+    border: 0;
+    background-color: #d00000;
+    margin: 10px 50px 10px 10px;
+    width: 20%;
+}
